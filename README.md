@@ -27,4 +27,4 @@ pixi run notebook_tutorial --no-browser --port=8888
 
 ## Details
 
-The notebook is based on https://github.com/google-deepmind/mujoco/blob/d0cabcf7dbf004f234bc0d9ba9dfe719a97d4e66/mjx/tutorial.ipynb, with some modifications to permit to run the notebook outside Google Colab.
+The notebook is based on https://github.com/google-deepmind/mujoco/blob/3.1.3/mjx/tutorial.ipynb, with some modifications to permit to run the notebook outside Google Colab.
